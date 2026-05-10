@@ -24,8 +24,13 @@ to classify gdT versus αβ T cells (abT) using only gene expression data.
 
 ## Datasets
 
-- Training dataset: Song et al. (2023), PBMC scRNA-seq with paired TCR labels  
-- External validation: Tissue-atlas dataset (Domínguez Conde et al., 2022)
+- **Training dataset:** Song et al. (2023), PBMC scRNA-seq dataset with paired TCR annotations  
+  https://zenodo.org/records/7989561
+
+- **External validation dataset:** Domínguez Conde et al. (2022) tissue-atlas dataset  
+  https://www.tissueimmunecellatlas.org/
+
+Please download the datasets manually and place them in the `data/` directory before running the analysis.
 
 
 ---
